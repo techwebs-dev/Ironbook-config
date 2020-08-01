@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Конфигуратор";
+$arDirProperties = array(
+
+);
+?>
